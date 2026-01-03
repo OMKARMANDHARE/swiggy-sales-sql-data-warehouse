@@ -219,7 +219,7 @@ This portfolio project showcases **Data analytics** and **SQL** skills through a
 
 <div align="center">
 
-<img src="diagrams/ER.jpg" alt="ER Diagram - Star Schema" width="800"/>
+<img src="diagrams/ER.png" alt="ER Diagram - Star Schema" width="800"/>
 
 **Star Schema Design** | 5 Dimension Tables + 1 Fact Table
 
