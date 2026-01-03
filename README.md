@@ -75,7 +75,7 @@
 | [🏗️ Architecture & Design](#️-architecture--design) | Star schema implementation |
 | [🔍 Data Quality & Validation Pipeline](#--data-quality--validation-pipeline) | ETL & validation |
 | [📊 Business Insights](#-business-insights) | Analytics & findings |
-| [💡 Key Insights](#-strategic-recommendations) | Action plan |
+| [💡 Key Insights](#-key-insights) | Action plan |
 | [💻 Technical Stack](#-technical-stack) | Technologies used |
 | [📁 Repository Structure](#-repository-structure) | Project files |
 | [🚀 Getting Started](#-getting-started) | Setup guide |
