@@ -1,0 +1,23 @@
+# Excel temporary files
+~$*.xlsx
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sql~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
