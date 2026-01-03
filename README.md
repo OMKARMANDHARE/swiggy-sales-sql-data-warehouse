@@ -73,7 +73,7 @@
 | [🎯 Executive Summary](#-executive-summary) | Project overview & impact |
 | [✨ Project Highlights](#-project-highlights) | Key achievements |
 | [🏗️ Architecture & Design](#️-architecture--design) | Star schema implementation |
-| [🔍 Data Quality & Validation Pipeline](#-data-quality-&-validation-pipeline) | ETL & validation |
+| [🔍 Data Quality & Validation Pipeline](#-data-quality--validation-pipeline) | ETL & validation |
 | [📊 Business Insights](#-business-insights) | Analytics & findings |
 | [💡 Key Insights](#-strategic-recommendations) | Action plan |
 | [💻 Technical Stack](#-technical-stack) | Technologies used |
