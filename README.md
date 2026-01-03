@@ -79,7 +79,7 @@
 | [💻 Technical Stack](#-technical-stack) | Technologies used |
 | [📁 Repository Structure](#-repository-structure) | Project files |
 | [🚀 Getting Started](#-getting-started) | Setup guide |
-| [🎓 SQL Skills Applied](#-skills-demonstrated) | Competencies |
+| [🎓 SQL Skills Applied](#-sql-skills-applied) | Competencies |
 | [📞 Contact](#-contact) | Connect with me |
 
 </details>
