@@ -28,7 +28,7 @@
 <a href="mailto:omkarmandhare666@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/omkarmandhare-data">
+<a href="https://www.omkarmandhare.in">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
